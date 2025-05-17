@@ -1,0 +1,16 @@
+{
+  "loginUrl": "https://www.saucedemo.com/",
+  "cartUrl": "https://www.saucedemo.com/cart.html",
+  "loginTitle": "Swag Labs",
+  "user1": "standard_user",
+  "user2": "locked_out_user",
+  "user3": "problem_user",
+  "password": "secret_sauce",
+  "FirstName": "Nour",
+  "LastName": "Moussa",
+  "postalCode": "121212",
+  "homePageUrl": "https://www.saucedemo.com/inventory.html",
+  "checkoutOneUrl": "https://www.saucedemo.com/checkout-step-one.html",
+  "checkoutTwoUrl": "https://www.saucedemo.com/checkout-step-two.html",
+  "checkoutCompleteUrl": "https://www.saucedemo.com/checkout-complete.html"
+}

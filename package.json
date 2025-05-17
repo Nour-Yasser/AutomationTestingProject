@@ -1,0 +1,24 @@
+{
+  "name": "testing3project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nour",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "chai": "^5.2.0",
+    "cypress": "^14.3.0",
+    "mocha": "^11.1.0"
+  },
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.5",
+    "ts-loader": "^9.5.2"
+  },
+  "cypress-cucumber-preprocessor":{
+    "stepDefinitions": "cypress/support/step_definitions/**/*.js"
+  }
+}
